@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git Repository
 <br>
-author-niyaz
+author-niyaz Gous
